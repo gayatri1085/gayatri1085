@@ -25,7 +25,7 @@ Sri Ramachandra Institute of Higher Education and Research
 ## Technical Skills
 
 ### Programming
-- Python, C++, SQL
+- Python, Java, C
 
 ### Machine Learning & AI
 - Supervised and Unsupervised Learning
