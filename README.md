@@ -1,16 +1,41 @@
-## Hi there mY self naga gayatri!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!👋
-yaaay!!!   cute cute red red
-<!--
-**gayatri1085/gayatri1085** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Gayatri Rayasam
 
-Here are some ideas to get you started:
+AI, Machine Learning and Reinforcement Learning Researcher  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Research Interests
+- Machine Learning
+- Reinforcement Learning (model-free & model-based)
+- Deep Learning and Representation Learning
+- Robotics and Autonomous Systems
+- Probabilistic Models and Decision Making
+
+---
+
+## Education
+**BSc, Computer Science**  
+Birla Institute of Technology and Science (BITS Pilani)
+
+**BTech, Computer Science**  
+Sri Ramachandra Institute of Higher Education and Research
+
+---
+
+## Technical Skills
+
+### Programming
+- Python, C++, SQL
+
+### Machine Learning & AI
+- Supervised and Unsupervised Learning
+- Reinforcement Learning (DQN, PPO, A3C, Policy Gradients)
+- Deep Learning (CNNs, RNNs, Transformers)
+- Probabilistic Models (Bayesian Networks, HMMs)
+- Dimensionality Reduction (PCA)
+
+### Frameworks & Tools
+- PyTorch, TensorFlow, Keras
+- OpenAI Gym, Stable-Baselines
+- NumPy, Pandas, Scikit-learn
+- Git, Linux
