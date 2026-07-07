@@ -6,9 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://scholar.google.com/citations?user=your-id"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"></a>
+  <a href="mailto:gayatrirayasam@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/gayatri-rayasam-508519325/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
@@ -17,7 +16,7 @@
 
 I'm a final-year dual-degree student in **B.Tech Computer Science** (Sri Ramachandra Institute of Higher Education and Research) and **B.Sc. (Hons.) Computer Science** (BITS Pilani), working across reinforcement learning, NLP/LLMs, medical AI, causal inference, and cybersecurity. I care about research that's ambitious in framing but honest in its results — I'd rather ship a clearly-documented negative finding than a dressed-up one.
 
-Currently building toward PhD applications for the **August 2027 intake** (NUS/NTU).
+Currently building toward PhD applications
 
 ---
 
