@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Gayatri Rayasam 👋</h1>
-<h3 align="center">AI · Machine Learning · Reinforcement Learning Researcher</h3>
+<h3 align="center">AI · NLP · Reinforcement Learning Researcher</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Reinforcement+Learning+%7C+Model-Free+%26+Model-Based;Deep+Learning+%26+Representation+Learning;Probabilistic+Models+%26+Decision+Making;Robotics+%26+Autonomous+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Reinforcement+Learning+%7C+Model-Free+%26+Model-Based;Deep+Learning+%26+Representation+Learning;Probabilistic+Models+%26+Decision+Making;NLP+%26+Autonomous+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
